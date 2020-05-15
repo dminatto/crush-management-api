@@ -16,16 +16,16 @@ Api create to learn Type Script based in the [article](https://medium.com/nerdza
 
 ## Developing
 
-``````
+```
 git clone https://github.com/dminatto/crush-management-api.git
-``````
+```
+```
 cd crush-management-api
 ```
 npm i
 ```
-
 ## Building
 
-````
+```
 npm start
 ```
